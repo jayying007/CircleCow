@@ -2,4 +2,4 @@
 
 这是用CocosCreator做的小游戏
 
-![20210801194055](/Users/jieyingzhuang/Desktop/20210801194055.gif)
+![20210801194055](https://blog-img-1256061645.cos.ap-guangzhou.myqcloud.com/20210801194055.gif)
